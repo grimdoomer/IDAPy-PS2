@@ -1,5 +1,5 @@
 """
-    LabelPs2Imports.py:
+    LabelIOPImports.py:
         Python script for IDA to help label imports/exports in a PS2 IOP module
 """
 
