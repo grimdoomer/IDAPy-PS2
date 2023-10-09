@@ -1,0 +1,30 @@
+{
+	"1.1" : {
+		"0" : "iopdebug_start",
+		"1" : "iopdebug_retonly",
+		"2" : "iopdebug_stop",
+		"3" : "iopdebug_retonly",
+		"4" : "iopdebug_retonly",
+		"5" : "iop_dbg_install",
+		"6" : "iop_dbg_remove",
+		"7" : "iop_dbg_get_handler",
+		"8" : "iop_dbg_set_handler",
+		"9" : "iop_dbg_get_reg_frames",
+		"10" : "iop_dbg_get_dcic",
+		"11" : "iop_dbg_set_dcic",
+		"12" : "iop_dbg_get_bpc",
+		"13" : "iop_dbg_set_bpc",
+		"14" : "iop_dbg_get_bpcm",
+		"15" : "iop_dbg_set_bpcm",
+		"16" : "iop_dbg_get_bda",
+		"17" : "iop_dbg_set_bda",
+		"18" : "iop_dbg_get_bdam",
+		"19" : "iop_dbg_set_bdam",
+		"20" : "iop_dbg_set_bpr",
+		"21" : "iop_dbg_set_bpw",
+		"22" : "iop_dbg_set_bpx",
+		"23" : "iop_dbg_clr_bps",
+		"24" : "iop_dbg_clr_bpda",
+		"25" : "iop_dbg_clr_bpx"
+	}
+}

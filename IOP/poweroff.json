@@ -1,0 +1,12 @@
+{
+	"1.1" : {
+		"0" : "poweroff_start",
+		"1" : "poweroff_retonly",
+		"2" : "poweroff_retonly",
+		"3" : "poweroff_retonly",
+		"4" : "SetPowerButtonHandler",
+		"5" : "AddPowerOffHandler",
+		"6" : "RemovePowerOffHandler",
+		"7" : "PoweroffShutdown"
+	}
+}

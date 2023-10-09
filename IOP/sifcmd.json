@@ -1,0 +1,32 @@
+{
+	"1.1" : {
+		"0" : "",
+		"1" : "",
+		"2" : "sceSifExitRpc",
+		"3" : "",
+		"4" : "sceSifInitCmd",
+		"5" : "sceSifExitCmd",
+		"6" : "sceSifGetSreg",
+		"7" : "sceSifSetSreg",
+		"8" : "sceSifSetCmdBuffer",
+		"9" : "sceSifSetSysCmdBuffer",
+		"10" : "sceSifAddCmdHandler",
+		"11" : "sceSifRemoveCmdHandler",
+		"12" : "sceSifSendCmd",
+		"13" : "isceSifSendCmd",
+		"14" : "sceSifInitRpc",
+		"15" : "sceSifBindRpc",
+		"16" : "sceSifCallRpc",
+		"17" : "sceSifRegisterRpc",
+		"18" : "sceSifCheckStatRpc",
+		"19" : "sceSifSetRpcQueue",
+		"20" : "sceSifGetNextRequest",
+		"21" : "sceSifExecRequest",
+		"22" : "sceSifRpcLoop",
+		"23" : "sceSifGetOtherData",
+		"24" : "sceSifRemoveRpc",
+		"25" : "sceSifRemoveRpcQueue",
+		"26" : "sceSifSetSif1CB",
+		"27" : "sceSifClearSif1CB"
+	}
+}

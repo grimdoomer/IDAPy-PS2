@@ -1,0 +1,14 @@
+{
+	"1.1" : {
+		"0" : "bdm_start",
+		"1" : "bdm_retonly",
+		"2" : "bdm_retonly",
+		"3" : "bdm_retonly",
+		"4" : "bdm_connect_bd",
+		"5" : "bdm_disconnect_bd",
+		"6" : "bdm_connect_fs",
+		"7" : "bdm_disconnect_fs",
+		"8" : "bdm_get_bd",
+		"9" : "bdm_RegisterCallback"
+	}
+}

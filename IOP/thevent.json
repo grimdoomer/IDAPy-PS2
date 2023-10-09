@@ -1,0 +1,19 @@
+{
+	"1.1" : {
+		"0" : "_start",
+		"1" : "",
+		"2" : "",
+		"3" : "",
+		"4" : "CreateEventFlag",
+		"5" : "DeleteEventFlag",
+		"6" : "SetEventFlag",
+		"7" : "iSetEventFlag",
+		"8" : "ClearEventFlag",
+		"9" : "iClearEventFlag",
+		"10" : "WaitEventFlag",
+		"11" : "PollEventFlag",
+		"12" : "",
+		"13" : "ReferEventFlagStatus",
+		"14" : "iReferEventFlagStatus"
+	}
+}

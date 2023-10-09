@@ -1,0 +1,25 @@
+{
+	"1.3" : {
+		"0" : "loadcore_start",
+		"1" : "",
+		"2" : "",
+		"3" : "GetLibraryEntryTable",
+		"4" : "FlushIcache",
+		"5" : "FlushDcache",
+		"6" : "RegisterLibraryEntries",
+		"7" : "ReleaseLibraryEntries",
+		"8" : "",
+		"9" : "",
+		"10" : "RegisterNonAutoLinkEntries",
+		"11" : "QueryLibraryEntryTable",
+		"12" : "QueryBootMode",
+		"13" : "RegisterBootMode",
+		"14" : "",
+		"15" : "",
+		"16" : "",
+		"17" : "",
+		"18" : "",
+		"19" : "",
+		"20" : "RegisterPostBootCallback"
+	}
+}

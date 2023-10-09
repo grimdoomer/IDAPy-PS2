@@ -1,0 +1,11 @@
+{
+	"2.1" : {
+		"0" : "romdrv_start",
+		"1" : "romdrv_retonly",
+		"2" : "romdrv_retonly",
+		"3" : "romdrv_retonly",
+		"4" : "romAddDevice",
+		"5" : "romDelDevice",
+		"6" : "romGetDevice"
+	}
+}

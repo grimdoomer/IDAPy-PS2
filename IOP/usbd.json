@@ -1,0 +1,21 @@
+{
+	"1.1" : {
+		"0" : "usbd_start",
+		"1" : "usbd_retonly",
+		"2" : "usbd_retonly",
+		"3" : "usbd_retonly",
+		"4" : "sceUsbdRegisterLdd",
+		"5" : "sceUsbdUnregisterLdd",
+		"6" : "sceUsbdScanStaticDescriptor",
+		"7" : "sceUsbdSetPrivateData",
+		"8" : "sceUsbdGetPrivateData",
+		"9" : "sceUsbdOpenPipe",
+		"10" : "sceUsbdClosePipe",
+		"11" : "sceUsbdTransferPipe",
+		"12" : "sceUsbdOpenPipeAligned",
+		"13" : "sceUsbdGetDeviceLocation",
+		"14" : "sceUsbdRegisterAutoloader",
+		"15" : "sceUsbdUnregisterAutoloader",
+		"16" : "sceUsbdChangeThreadPriority"
+	}
+}

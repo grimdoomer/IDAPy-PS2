@@ -1,0 +1,18 @@
+{
+	"1.1" : {
+		"0" : "pvrdrv_retonly",
+		"1" : "pvrdrv_retonly",
+		"2" : "pvrdrv_retonly",
+		"3" : "pvrdrv_retonly",
+		"4" : "DvrdrvResetSystem",
+		"5" : "DvrdrvEnableIntr",
+		"6" : "DvrdrvDisableIntr",
+		"7" : "DvrdrvRegisterIntrHandler",
+		"8" : "DvrdrvUnregisterIntrHandler",
+		"9" : "DvrdrvExecCmdAck",
+		"10" : "DvrdrvExecCmdAckComp",
+		"11" : "DvrdrvExecCmdAckDmaSendComp",
+		"12" : "DvrdrvExecCmdAckDmaRecvComp",
+		"13" : "DvrdrvExecCmdAckDma2Comp"
+	}
+}

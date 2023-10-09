@@ -1,0 +1,20 @@
+{
+	"1.1" : {
+		"0" : "sior_start",
+		"1" : "sior_retonly",
+		"2" : "sior_retonly",
+		"3" : "sior_retonly",
+		"4" : "sio_init",
+		"5" : "sio_putc",
+		"6" : "sio_getc",
+		"7" : "sio_getc_block",
+		"8" : "sio_write",
+		"9" : "sio_read",
+		"10" : "sio_puts",
+		"11" : "sio_putsn",
+		"12" : "sio_gets",
+		"13" : "sio_flush",
+		"14" : "sio_printf",
+		"15" : "sio_vprintf"
+	}
+}

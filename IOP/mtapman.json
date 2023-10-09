@@ -1,0 +1,12 @@
+{
+	"1.2" : {
+		"0" : "mtapman_start",
+		"1" : "mtapman_retonly",
+		"2" : "shutdown",
+		"3" : "mtapman_retonly",
+		"4" : "mtapPortOpen",
+		"5" : "mtapPortClose",
+		"6" : "mtapGetSlotNumber",
+		"7" : "mtapChangeSlot"
+	}
+}

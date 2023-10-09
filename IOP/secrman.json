@@ -1,0 +1,25 @@
+{
+	"1.4" : {
+		"0" : "secrman_start",
+		"1" : "secrman_funcret",
+		"2" : "secrman_exit",
+		"3" : "secrman_funcret",
+		"4" : "SecrSetMcCommandHandler",
+		"5" : "SecrSetMcDevIDHandler",
+		"6" : "SecrAuthCard",
+		"7" : "SecrResetAuthCard",
+		"8" : "SecrCardBootHeader",
+		"9" : "SecrCardBootBlock",
+		"10" : "SecrCardBootFile",
+		"11" : "SecrDiskBootHeader",
+		"12" : "SecrDiskBootBlock",
+		"13" : "SecrDiskBootFile",
+		"14" : "SecrDownloadHeader",
+		"15" : "SecrDownloadBlock",
+		"16" : "SecrDownloadFile",
+		"17" : "SecrDownloadGetKbit",
+		"18" : "SecrDownloadGetKc",
+		"19" : "SecrDownloadGetICVPS2",
+		"20" : "SecrAuthDongle"
+	}
+}

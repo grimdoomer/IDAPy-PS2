@@ -1,0 +1,19 @@
+{
+	"1.1" : {
+		"0" : "siftoo_start",
+		"1" : "siftoo_retonly",
+		"2" : "shutdown",
+		"3" : "siftoo_retonly",
+		"4" : "sif2_init",
+		"5" : "sif2_exit",
+		"6" : "sif2_mem_read",
+		"7" : "sif2_mem_write",
+		"8" : "siftoo_retonly",
+		"9" : "siftoo_retonly",
+		"10" : "sif2_pipe_create",
+		"11" : "sif2_pipe_open",
+		"12" : "sif2_pipe_close",
+		"13" : "sif2_pipe_read",
+		"14" : "sif2_pipe_write"
+	}
+}

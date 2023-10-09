@@ -1,0 +1,20 @@
+{
+	"1.9" : {
+		"0" : "dev9_start",
+		"1" : "dev9_retonly",
+		"2" : "dev9_exit",
+		"3" : "dev9_retonly",
+		"4" : "dev9RegisterIntrCb",
+		"5" : "dev9DmaTransfer",
+		"6" : "dev9Shutdown",
+		"7" : "dev9IntrEnable",
+		"8" : "dev9IntrDisable",
+		"9" : "dev9GetEEPROM",
+		"10" : "dev9LEDCtl",
+		"11" : "dev9RegisterShutdownCb",
+		"12" : "dev9RegisterPreDmaCb",
+		"13" : "dev9RegisterPostDmaCb",
+		"14" : "dev9ControlPIO3",
+		"15" : "dev9LED2Ctl"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"1.4" : {
+		"0" : "libsd_start",
+		"1" : "libsd_retonly",
+		"2" : "sceSdQuit",
+		"3" : "libsd_retonly",
+		"4" : "sceSdInit",
+		"5" : "sceSdSetParam",
+		"6" : "sceSdGetParam",
+		"7" : "sceSdSetSwitch",
+		"8" : "sceSdGetSwitch",
+		"9" : "sceSdSetAddr",
+		"10" : "sceSdGetAddr",
+		"11" : "sceSdSetCoreAttr",
+		"12" : "sceSdGetCoreAttr",
+		"13" : "sceSdNote2Pitch",
+		"14" : "sceSdPitch2Note",
+		"15" : "sceSdProcBatch",
+		"16" : "sceSdProcBatchEx",
+		"17" : "sceSdVoiceTrans",
+		"18" : "sceSdBlockTrans",
+		"19" : "sceSdVoiceTransStatus",
+		"20" : "sceSdBlockTransStatus",
+		"21" : "sceSdSetTransCallback",
+		"22" : "sceSdSetIRQCallback",
+		"23" : "sceSdSetEffectAttr",
+		"24" : "sceSdGetEffectAttr",
+		"25" : "sceSdClearEffectWorkArea",
+		"26" : "sceSdSetTransIntrHandler",
+		"27" : "sceSdSetSpu2IntrHandler"
+	}
+}

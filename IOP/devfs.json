@@ -1,0 +1,12 @@
+{
+	"1.1" : {
+		"0" : "devfs_start",
+		"1" : "devfs_retonly",
+		"2" : "devfs_retonly",
+		"3" : "devfs_retonly",
+		"4" : "DevFSAddDevice",
+		"5" : "DevFSDelDevice",
+		"6" : "DevFSAddSubDevice",
+		"7" : "DevFSDelSubDevice"
+	}
+}

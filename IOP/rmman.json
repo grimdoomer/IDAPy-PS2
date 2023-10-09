@@ -1,0 +1,12 @@
+{
+	"1.1" : {
+		"0" : "rmman_start",
+		"1" : "rmman_retonly",
+		"2" : "rmman_retonly",
+		"3" : "rmman_retonly",
+		"4" : "rmmanInit",
+		"5" : "rmmanOpen",
+		"6" : "rmmanClose",
+		"7" : "rmmanEnd"
+	}
+}

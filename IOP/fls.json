@@ -1,0 +1,19 @@
+{
+	"1.1" : {
+		"0" : "fls_retonly",
+		"1" : "fls_retonly",
+		"2" : "fls_retonly",
+		"3" : "fls_retonly",
+		"4" : "flash_detect",
+		"5" : "flash_device_reset",
+		"6" : "flash_get_info",
+		"7" : "flash_page_erase",
+		"8" : "flash_page_read",
+		"9" : "flash_page_write",
+		"10" : "fls_retonly",
+		"11" : "fls_retonly",
+		"12" : "fls_retonly",
+		"13" : "fls_retonly",
+		"14" : "fls_start"
+	}
+}

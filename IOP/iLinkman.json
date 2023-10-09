@@ -1,0 +1,30 @@
+{
+	"1.1" : {
+		"0" : "iLinkman_start",
+		"1" : "iLinkman_funcret",
+		"2" : "iLinkman_exit",
+		"3" : "iLinkman_funcret",
+		"4" : "iLinkEnableSBus",
+		"5" : "iLinkDisableSBus",
+		"6" : "iLinkResetSBus",
+		"7" : "iLinkSetNodeCapabilities",
+		"8" : "iLinkSetTrCallbackHandler",
+		"9" : "iLinkGetGenerationNumber",
+		"10" : "iLinkGetLocalNodeID",
+		"11" : "iLinkGetNodeCount",
+		"12" : "iLinkTrAlloc",
+		"13" : "iLinkTrFree",
+		"14" : "iLinkTrWrite",
+		"15" : "iLinkTrRead",
+		"16" : "iLinkCalculateCRC16",
+		"17" : "iLinkAddCROMUnit",
+		"18" : "iLinkDeleteCROMUnit",
+		"19" : "iLinkGetNodeCapabilities",
+		"20" : "iLinkGetNodeMaxSpeed",
+		"21" : "iLinkGetNodeTrSpeed",
+		"22" : "iLinkSetNodeTrSpeed",
+		"23" : "iLinkFindUnit",
+		"24" : "iLinkReadCROM",
+		"25" : "iLinkGetLocalNodeEUI64"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"1.1" : {
+		"0" : "ioptrap_start",
+		"1" : "ioptrap_retonly",
+		"2" : "shutdown",
+		"3" : "ioptrap_retonly",
+		"4" : "get_exception_name",
+		"5" : "dbg_setjmp",
+		"6" : "set_exception_handler",
+		"7" : "get_exception_handler",
+		"8" : "set_dba",
+		"9" : "set_dbam",
+		"10" : "set_dcic",
+		"11" : "get_dba",
+		"12" : "get_dbam",
+		"13" : "get_dcic"
+	}
+}

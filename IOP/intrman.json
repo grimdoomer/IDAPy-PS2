@@ -1,0 +1,30 @@
+{
+	"1.2" : {
+		"0" : "_start",
+		"1" : "",
+		"2" : "",
+		"3" : "",
+		"4" : "RegisterIntrHandler",
+		"5" : "ReleaseIntrHandler",
+		"6" : "EnableIntr",
+		"7" : "DisableIntr",
+		"8" : "CpuDisableIntr",
+		"9" : "CpuEnableIntr",
+		"10" : "",
+		"11" : "",
+		"12" : "",
+		"13" : "",
+		"14" : "CpuInvokeInKmode",
+		"15" : "DisableDispatchIntr",
+		"16" : "EnableDispatchIntr",
+		"17" : "CpuSuspendIntr",
+		"18" : "CpuResumeIntr",
+		"19" : "",
+		"20" : "",
+		"21" : "",
+		"22" : "",
+		"23" : "QueryIntrContext",
+		"24" : "QueryIntrStack",
+		"25" : "iCatchMultiIntr"
+	}
+}

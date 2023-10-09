@@ -1,0 +1,20 @@
+{
+	"1.1" : {
+		"0" : "_start",
+		"1" : "",
+		"2" : "",
+		"3" : "",
+		"4" : "AllocSysMemory",
+		"5" : "FreeSysMemory",
+		"6" : "QueryMemSize",
+		"7" : "QueryMaxFreeMemSize",
+		"8" : "QueryTotalFreeMemSize",
+		"9" : "QueryBlockTopAddress",
+		"10" : "QueryBlockSize",
+		"11" : "",
+		"12" : "",
+		"13" : "",
+		"14" : "Kprintf",
+		"15" : "KprintfSet"
+	}
+}

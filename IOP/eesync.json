@@ -1,0 +1,10 @@
+{
+	"1.1" : {
+		"0" : "eesync_start",
+		"1" : "eesync_retonly",
+		"2" : "eesync_retonly",
+		"3" : "eesync_retonly",
+		"4" : "eesync_retonly",
+		"5" : "eesync_retonly"
+	}
+}

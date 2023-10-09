@@ -1,0 +1,12 @@
+{
+	"1.1" : {
+		"0" : "sbusintr_start",
+		"1" : "sbusintr_retonly",
+		"2" : "sbus_intr_exit",
+		"3" : "sbusintr_retonly",
+		"4" : "sbus_intr_init",
+		"5" : "sbus_intr_handler_add",
+		"6" : "sbus_intr_handler_del",
+		"7" : "sbus_intr_main_interrupt"
+	}
+}

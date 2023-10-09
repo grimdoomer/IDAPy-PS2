@@ -1,0 +1,15 @@
+{
+	"1.2" : {
+		"0" : "usbmass_start",
+		"1" : "usbmass_retonly",
+		"2" : "usbmass_retonly",
+		"3" : "usbmass_retonly",
+		"4" : "UsbMassGetDeviceInfo",
+		"5" : "UsbMassRegisterCallback",
+		"6" : "fat_getData",
+		"7" : "UsbMassReadSector",
+		"8" : "UsbMassWriteSector",
+		"9" : "UsbMassFlushCache",
+		"10" : "fat_getClusterChain"
+	}
+}

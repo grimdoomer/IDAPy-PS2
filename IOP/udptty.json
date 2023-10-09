@@ -1,0 +1,9 @@
+{
+	"1.1" : {
+		"0" : "udptty_start",
+		"1" : "udptty_retonly",
+		"2" : "udptty_shutdown",
+		"3" : "udptty_retonly",
+		"4" : "udptty_retonly"
+	}
+}

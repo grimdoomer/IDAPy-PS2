@@ -1,0 +1,18 @@
+{
+	"1.1" : {
+		"0" : "modload_start",
+		"1" : "",
+		"2" : "",
+		"3" : "",
+		"4" : "ReBootStart",
+		"5" : "LoadModuleAddress",
+		"6" : "LoadModule",
+		"7" : "LoadStartModule",
+		"8" : "StartModule",
+		"9" : "LoadModuleBufferAddress",
+		"10" : "LoadModuleBuffer",
+		"11" : "",
+		"12" : "SetSecrmanCallbacks",
+		"13" : "SetCheckKelfPathCallback"
+	}
+}

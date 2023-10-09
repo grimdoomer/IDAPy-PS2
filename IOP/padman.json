@@ -1,0 +1,23 @@
+{
+	"1.2" : {
+		"0" : "padman_start",
+		"1" : "padman_retonly",
+		"2" : "padman_retonly",
+		"3" : "padman_retonly",
+		"4" : "padInit",
+		"5" : "padEnd",
+		"6" : "padPortOpen",
+		"7" : "padPortClose",
+		"8" : "padGetInBuffer",
+		"9" : "padSetupEEButtonData",
+		"10" : "padGetModeConfig",
+		"11" : "padInfoAct",
+		"12" : "padInfoComb",
+		"13" : "padInfoMode",
+		"14" : "padSetMainMode",
+		"15" : "padSetActDirect",
+		"16" : "padSetActAlign",
+		"17" : "padGetButtonMask",
+		"18" : "padSetButtonInfo"
+	}
+}
